@@ -1,7 +1,8 @@
 import styled from 'styled-components';
+import { colors } from '../../constants/colors'
 
 export const HeaderContainer = styled.header`
-  background-color: #fafafa;
+  background-color: ${colors.white};
   width: 100%;
   height: 6rem;
   max-height: 110px;
@@ -13,14 +14,14 @@ export const HeaderContainer = styled.header`
 `;
 
 export const Logo = styled.div`
-  background-color: #FF3C3C;
+  background-color: ${colors.red};
   width: 65px;
   height: 50px;
   border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fafafa;
+  color: ${colors.white};
   font-weight: 500;
 `;
 

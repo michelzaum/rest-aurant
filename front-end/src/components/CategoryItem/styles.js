@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { colors } from '../../constants/colors';
 
 export const CategoryItemContainer = styled.div`
   max-width: 90px;
@@ -15,7 +16,7 @@ export const CategoryImage = styled.img`
   height: 90px;
   width: 90px;
   border-radius: 50%;
-  border: 0.5px solid #858585;
+  border: 0.5px solid ${colors.dark};
 `;
 
 export const CategoryName = styled.span`
