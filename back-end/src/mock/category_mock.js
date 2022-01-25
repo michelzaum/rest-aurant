@@ -1,7 +1,7 @@
 const categories = [
   {
     category_id: 1,
-    name: "Hamburguer",
+    name: "Burguer",
     image: "https://images.unsplash.com/photo-1603064752734-4c48eff53d05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1288&q=80",
   }, {
     category_id: 2,
@@ -18,7 +18,7 @@ const categories = [
   }, {
     category_id: 5,
     name: "Massas",
-    image: "https://images.unsplash.com/photo-1597393353415-b3730f3719fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    image: "https://images.unsplash.com/photo-1627286400579-027de47e9e73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
   }, {
     category_id: 6,
     name: "Fitness",
@@ -33,7 +33,7 @@ const categories = [
     image: "https://images.unsplash.com/photo-1575224300306-1b8da36134ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
   }, {
     category_id: 9,
-    name: "Café da manhã",
+    name: "Matinal",
     image: "https://images.unsplash.com/photo-1528699633788-424224dc89b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=733&q=80",
   }, {
     category_id: 10,
