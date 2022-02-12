@@ -1,5 +1,5 @@
 import { CategoryList } from './components/CategoryList';
-import { FoodItem } from './components/FoodItem';
+import { FoodList } from './components/FoodList';
 import { Header } from './components/Header';
 
 import GlobalStyles from './globalStyles';
@@ -9,7 +9,7 @@ function App() {
     <>
       <Header />
       <CategoryList />
-      <FoodItem />
+      <FoodList />
       <GlobalStyles />
     </>
   );
